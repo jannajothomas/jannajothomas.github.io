@@ -1648,7 +1648,7 @@ header .logo a {
 	height: 100%;
 	background: rgba(0, 0, 0, 0.1);
 	position: absolute;
-	left: 35%;
+	left: 40%;
 	top: 0;
 }
 #resume .timeline-block {
@@ -1664,7 +1664,7 @@ header .logo a {
 	text-align: center;
 	color: #FFFFFF;
 	position: absolute;
-	left: 35%;
+	left: 40%;
 	top: .9rem;
 	margin-left: -2.4rem;
 }
@@ -1693,7 +1693,7 @@ header .logo a {
 	color: #888888;
 }
 #resume .timeline-content {
-	margin-left: 35%;
+	margin-left: 40%;
 	padding-left: 60px;
 }
 #resume .timeline-content h4 {
