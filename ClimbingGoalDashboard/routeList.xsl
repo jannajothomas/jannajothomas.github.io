@@ -19,7 +19,15 @@
    <xsl:template match="/">
       <html>
          <head>
-            <title>Real Estate Listings</title>
+            <title>Climbing Goal Dashboard</title>
+            
+             <!-- Required meta tags -->
+            <meta charset="utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+            <!-- Bootstrap CSS -->
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous" />
+            <!-- My custom Stylesheet -->
             <link href="style.css" rel="stylesheet" type="text/css" />
         </head>
 
@@ -39,7 +47,7 @@
                         <xsl:for-each select="routes/route">
                             <tr>
                                 <th scope="row">1</th>
-                                <td><xsl:value-of select="Name" /></td>
+                                <td id="name"><xsl:value-of select="Name" /></td>
                                 <td><xsl:value-of select="Location" /></td>
                                 <td><xsl:value-of select="AvgStars" /></td>
                                 <td> TODO</td>
