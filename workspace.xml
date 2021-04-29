@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="febd4c89-5ad7-47f6-aa38-b754a59b3b26" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ClimbingGoalDashboard/csvconvert.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbingGoalDashboard/fileTransform" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbingGoalDashboard/routeList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbingGoalDashboard/routeList.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbingGoalDashboard/routeList.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbingGoalDashboard/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615854658698</updated>
-      <workItem from="1615854660831" duration="33739000" />
+      <workItem from="1615854660831" duration="60248000" />
     </task>
     <task id="LOCAL-00001" summary="Remove coldfusion from code">
       <created>1615855338172</created>
@@ -160,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616080542142</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Assignment 8 Complete">
+      <created>1616182247838</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616182247839</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +186,7 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Adding files for Climbing Goal Dashboard" />
     <MESSAGE value="Used bootstrap on table" />
-    <option name="LAST_COMMIT_MESSAGE" value="Used bootstrap on table" />
+    <MESSAGE value="Assignment 8 Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 8 Complete" />
   </component>
 </project>
