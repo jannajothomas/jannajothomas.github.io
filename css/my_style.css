@@ -1,3 +1,10 @@
+/*not working right now*/
+
 a a:visited{
     color:limegreen;
+}
+
+/*allow 3 options to appear in popup modal box*/
+.popup-modal .link-box a {
+    width: 33%;
 }
